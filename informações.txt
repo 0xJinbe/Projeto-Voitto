@@ -1,0 +1,1 @@
+{'media': 27.1, 'mediana': 28.5, 'moda': 46, 'desvio padrao': 14.551861278429874, 'variancia': 211.75666666666672}
